@@ -64,7 +64,7 @@ class Script(object):
 • 📱 <a href="https://x.me/LazyDeveloperr">ᴛᴡɪᴛᴛᴇʀ</a>
 • ⚕ <a href="https://github.com/LazyDeveloperr">ɢɪᴛʜᴜʙ</a>
 • 🎊 <a href="https://youtube.com/@LazyDeveloperr">ʏᴏᴜᴛᴜʙᴇ</a>
-• 🍟 <a href="https://telegram.com/LazyDeveloperr">ᴛᴇʟᴇɢʀᴀᴍ</a>
+• 🍟 <a href="https://telegram.dog/LazyDeveloperr">ᴛᴇʟᴇɢʀᴀᴍ</a>
 
 <i>ᴛʜᴀɴᴋs ꜰᴏʀ ᴜsɪɴɢ {}! ❤️</i>
 """
