@@ -39,7 +39,6 @@ class Script(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 ᴍʏ ɴᴀᴍᴇ : {}
-├👑 ᴏᴡɴᴇʀ : <a href="https://t.me/Simplifytuber">Simplifytuber</a>
 ├🦋 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/LazyDeveloperr">ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀʀ</a>
 ├📕 ʟɪʙʀᴀʀʏ : <a href="https://github.com/pyrogram">ᴘʏʀᴏɢʀᴀᴍ</a>
 ├✏️ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org">ᴘʏᴛʜᴏɴ 3</a>
